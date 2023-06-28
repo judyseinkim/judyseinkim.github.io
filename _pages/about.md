@@ -16,5 +16,5 @@ You can find my CV [here](https://judyseinkim.github.io/cv/), publications [here
 
 Research
 ============
-I'm interested in how different **structures in thought **(e.g., associations and intuitive theories) are transmitted through **testimony**. One goal of this research is to understand the structures themselves. For example, my recent work focuses on narratives -- what they are and how they help us organize and communicate about our experiences. I'm also interested in the social components of testimonial exchange -- e.g., inferences we make about our audiences, how we gain and give trust, and the role of power in who gets to speak at all.
+I'm interested in how different **structures in thought** (e.g., associations and intuitive theories) are transmitted through **testimony**. One goal of this research is to understand the structures themselves. For example, my recent work focuses on narratives -- what they are and how they help us organize and communicate about our experiences. I'm also interested in the social components of testimonial exchange -- e.g., inferences we make about our audiences, how we gain and give trust, and the role of power in who gets to speak at all.
 
