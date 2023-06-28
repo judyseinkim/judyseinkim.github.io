@@ -29,4 +29,11 @@ Kim, J.S., Aheimer, B.+, Montané-Manrara, V.+, Bedny, M. (2021). Shared underst
 
 11. Glezer, L.S., **Kim, J.S.**, Rule, J., Jiang, X., & Riesenhuber, M. (2015). Adding words to the brain's visual dictionary: novel word learning selectively sharpens orthographic representations in the VWFA. The Journal of Neuroscience.
 
-12. 
+Reviews/Letters/Chapters
+========
+
+12. Manalili, M.A.R., Pearson, A., Sulik, J., Creechan, L., Elsherif, M. M., Murkumbi, I., Azevedo, F., Bonnen, K., **Kim, J.S.**, Kording, K., Lee, J., Obscura, Kapp, S., Roer, Jp.P., Morstead, T. (2022). From Puzzle to Progress: How engaging with Neurodiversity can improve Cognitive Science. Cognitive Science.
+
+13. **Kim, J.S.**, Elli, G., Bedny, M. (2019b). Reply to Ostarek et al.: Language, but not co-occurrence statistics, is useful for learning animal appearance. Proceedings of the National Academy of Science.
+
+14. **Kim, J.S.**, Elli, G., Bedny, M. (2019c). Reply to Lewis et al.: Inference is key to learning appearance from language, for humans and distributional semantic models alike. Proceedings of the National Academy of Science.
