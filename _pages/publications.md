@@ -15,7 +15,7 @@ Publications
 
 3. Tian, M. Saccone, E., **Kim, J.S.**, Kanjlia, S., & Bedny, M. (2022). Sensory modality and spoken language shape reading network in blind readers of Braille. _Cerebral Cortex_. [pdf](tian_2022.pdf)
 
-4. Kim, J.S., Aheimer, B.+, Montané-Manrara, V.+, Bedny, M. (2021). Shared understanding of color among sighted and blind adults. _Proceedings of the National Academy of Sciences_. [pdf](kim_2021.pdf)
+4. **Kim, J.S.**, Aheimer, B.+, Montané-Manrara, V.+, Bedny, M. (2021). Shared understanding of color among sighted and blind adults. _Proceedings of the National Academy of Sciences_. [pdf](kim_2021.pdf)
 
 5. Everett, J.A.C, Colombatto, C., Awad, E., Boggio, P., Bos, B., Brady, W.J., Chawla, M., Chituc, V., Chung, D., Drupp, M.A., Goel, S., Grosskopf, B., Hjorth, F., Ji, A., Kealoha, C.,** Kim, J.S.**, Lin, Y., Ma, Y., Marechal, M.A., Mancinelli, F., Mathys, C., Olsen, A.L., Pearce, G., Prosser, A., Reggev, N., Sabin, N., Senn, J., Shin, Y.S., Sinnott-Armstrong, W., Sjastad, Hallgeir, Strick, M., Sul, S., Tummers, L., Turner, M., Yu, H., Zoh, Y., Crockett, M.J. (2021). Moral dilemmas and trust in leaders during a global health crisis._ Nature Human Behavior_. [pdf](everett_2021.pdf)
 
