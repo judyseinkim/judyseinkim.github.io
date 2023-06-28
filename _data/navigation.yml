@@ -2,7 +2,7 @@
 main:
 
   - title: "CV"
-    url: "https://www.dropbox.com/scl/fi/yfqm2awr92fdld7ne25bn/judyseinkim-CV-062823.pdf?dl=0&rlkey=n0kz6o12b935nnqkdyuc29esw"
+    url: /cv/
 
   - title: "Publications"
     url: /publications/
