@@ -16,7 +16,7 @@ Research
 ============
 I'm interested in how different **structures in thought** (e.g., associations and intuitive theories) are transmitted through **testimony**. 
 
-One goal of this research is to understand the structures themselves. For example, my recent work focuses on narratives -- what they are and how they help us organize and communicate about our experiences. I'm also interested in the social components of testimonial exchange -- e.g., inferences we make about our audiences, how we gain and give trust, and the role of power in who gets to speak at all.
+One goal of this research is to understand the structures themselves. For example, my recent work focuses on _narratives_ -- what they are and how they help us organize and communicate about our experiences. I'm also interested in the _social_ components of testimonial exchange -- e.g., inferences we make about our audiences, how we gain and give trust, and the role of power in who gets to speak at all.
 
 Publications
 ========
@@ -30,7 +30,7 @@ Publications
 
 4. Kim, J.S., Aheimer, B.+, Montané-Manrara, V.+, Bedny, M. (2021). Shared understanding of color among sighted and blind adults. _Proceedings of the National Academy of Sciences_. [pdf](kim_2021.pdf)
 
-5. Everett, J.A.C, Colombatto, C., Awad, E., Boggio, P., Bos, B., Brady, W.J., Chawla, M., Chituc, V., Chung, D., Drupp, M.A., Goel, S., Grosskopf, B., Hjorth, F., Ji, A., Kealoha, C.,** Kim, J.S.**, Lin, Y., Ma, Y., Marechal, M.A., Mancinelli, F., Mathys, C., Olsen, A.L., Pearce, G., Prosser, A., Reggev, N., Sabin, N., Senn, J., Shin, Y.S., Sinnott-Armstrong, W., Sjastad, Hallgeir, Strick, M., Sul, S., Tummers, L., Turner, M., Yu, H., Zoh, Y., Crockett, M.J. (2021). Moral dilemmas and trust in leaders during a global health crisis._ Nature Human Behavior_. [pdf](everett_2021.pdf)
+5. Everett, J.A.C, Colombatto, C., Awad, E., Boggio, P., Bos, B., Brady, W.J., Chawla, M., Chituc, V., Chung, D., Drupp, M.A., Goel, S., Grosskopf, B., Hjorth, F., Ji, A., Kealoha, C.,**Kim, J.S.**, Lin, Y., Ma, Y., Marechal, M.A., Mancinelli, F., Mathys, C., Olsen, A.L., Pearce, G., Prosser, A., Reggev, N., Sabin, N., Senn, J., Shin, Y.S., Sinnott-Armstrong, W., Sjastad, Hallgeir, Strick, M., Sul, S., Tummers, L., Turner, M., Yu, H., Zoh, Y., Crockett, M.J. (2021). Moral dilemmas and trust in leaders during a global health crisis._ Nature Human Behavior_. [pdf](everett_2021.pdf)
 
 6. Liu, Y.F., **Kim, J.S.**, Wilson, C., Bedny, M. (2020). Computer code comprehension shares neural resources with formal logic inference in the fronto-parietal network. _eLife._ [pdf](liu_2020.pdf)
 
