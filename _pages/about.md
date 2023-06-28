@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+About Me
+============
 I am currently a postdoctoral researcher in the [Crockett Lab](http://www.crockettlab.org/) at Princeton University. I completed my PhD in Psychology at Johns Hopkins with [Marina Bedny](https://bednylab.com/index.html).
 
 You can download my CV [here](https://judyseinkim.github.io/cv/) and find publications [here](https://judyseinkim.github.io/publications/). If you're looking for info on the Moral Narratives Workshop, go [here](https://moralnarratives.org)! 
 
-Research 
+Research Interests
 ============
 I'm interested in how different **structures in thought** (e.g., associations and intuitive theories) are transmitted through **testimony**. 
 
