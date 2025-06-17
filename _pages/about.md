@@ -10,6 +10,9 @@ redirect_from:
 
 About Me
 ============
+
+In August 2025, I will be starting as an Assistant Professor in Psychology at American University. (This page is outdated; updated website coming soon!!!)
+
 I am currently a postdoctoral researcher in the [Crockett Lab](http://www.crockettlab.org/) at Princeton University. I completed my PhD in Psychology at Johns Hopkins with [Marina Bedny](https://bednylab.com/index.html).
 
 You can download my CV [here](https://judyseinkim.github.io/CV/) and find publications [here](https://judyseinkim.github.io/publications/). If you're looking for info on the Moral Narratives Workshop, go [here](https://moralnarratives.org)! 
